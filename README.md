@@ -1,6 +1,6 @@
 # 小嵩的GitHub博客
 
-[GitHub 博客地址](https://xiaosong520.github.io/blog/)
+[GitHub Pages](https://xiaosong520.github.io/blog/)
 
 [CSDN 博客地址](http://blog.csdn.net/qq_22393017)
 
